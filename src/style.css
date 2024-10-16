@@ -3,7 +3,7 @@ h3 {
 }
 
 .card {
-  border: solid 1px red;
+  border: solid 1px#999;
   border-radius: 8px;
   width: 250px;
 }
