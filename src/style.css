@@ -1,3 +1,9 @@
 h3 {
   text-align: center;
 }
+
+.card {
+  border: solid 1px red;
+  border-radius: 8px;
+  width: 250px;
+}
