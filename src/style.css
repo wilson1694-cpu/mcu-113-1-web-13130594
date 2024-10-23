@@ -39,6 +39,7 @@ section.body {
 }
 
 .card {
+  padding: 10px;
   border: solid 1px#999;
   border-radius: 8px;
   width: 250px;
@@ -90,4 +91,10 @@ table th {
 
 tr:hover {
   background-color: yellow;
+}
+
+.card-container {
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
 }
